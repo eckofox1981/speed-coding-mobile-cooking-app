@@ -11,7 +11,7 @@ export class Recept {
     ingredients: Array<string>,
     instructions: Array<string>
   ) {
-    this.id = crypto.randomUUID();
+    this.id = id;
     this.title = title;
     this.image = image;
     this.ingredients = ingredients;

@@ -9,7 +9,7 @@ export function ReceptCard({ recept }: ReceptCardProps) {
   return (
     <View style={styles.cardContainer}>
       <Image src={recept.image} />
-      {/* <Image source={require("../assets/fork-and-knife.jpg")} /> */}
+      <Image source={{ width: 200, height: 200, uri: recept.image }} />
       <Text style={styles.title}>{recept.title}</Text>
 
       {recept.ingredients.map((ingredient, index) => (

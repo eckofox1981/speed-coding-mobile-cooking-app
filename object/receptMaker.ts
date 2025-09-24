@@ -4,7 +4,7 @@ export const recipes: Recept[] = [
   new Recept(
     "1",
     "Spaghetti Bolognese",
-    "https://example.com/images/spaghetti-bolognese.jpg",
+    "https://cdn.aniagotuje.com/pictures/articles/2024/05/61816591-v-1080x1080.jpg",
     [
       "spaghetti",
       "ground beef",
@@ -29,7 +29,7 @@ export const recipes: Recept[] = [
   new Recept(
     "2",
     "Chicken Alfredo Pasta",
-    "https://example.com/images/chicken-alfredo.jpg",
+    "https://familystylefood.com/wp-content/uploads/2023/04/Chicken-Fettuccine-Pasta.jpg",
     [
       "fettuccine",
       "chicken breast",
@@ -52,7 +52,7 @@ export const recipes: Recept[] = [
   new Recept(
     "3",
     "Vegetable Stir-Fry with Rice",
-    "https://example.com/images/veg-stirfry.jpg",
+    "https://cookingwithcoit.com/wp-content/uploads/2021/04/HERO_Vegetable-Stir-Fry.jpg",
     [
       "rice",
       "broccoli",
@@ -74,7 +74,7 @@ export const recipes: Recept[] = [
   new Recept(
     "4",
     "Beef Tacos",
-    "https://example.com/images/beef-tacos.jpg",
+    "https://tarateaspoon.com/wp-content/uploads/2024/04/Beef-Taco-Meat-sz-03.jpg",
     [
       "taco shells",
       "ground beef",
@@ -95,7 +95,7 @@ export const recipes: Recept[] = [
   new Recept(
     "5",
     "Thai Green Curry",
-    "https://example.com/images/thai-green-curry.jpg",
+    "https://rachelcooksthai.com/wp-content/uploads/2011/05/Green-Curry-Eggplant-01.jpg",
     [
       "chicken or tofu",
       "green curry paste",
@@ -119,7 +119,7 @@ export const recipes: Recept[] = [
   new Recept(
     "6",
     "Pancakes",
-    "https://example.com/images/pancakes.jpg",
+    "https://plus.unsplash.com/premium_photo-1663854478296-dd00b6257021?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8cGFuY2FrZXN8ZW58MHx8MHx8fDA%3D",
     ["flour", "milk", "egg", "baking powder", "sugar", "salt", "butter"],
     [
       "Mix flour, baking powder, sugar, salt in bowl.",
@@ -132,7 +132,7 @@ export const recipes: Recept[] = [
   new Recept(
     "7",
     "Tomato Soup",
-    "https://example.com/images/tomato-soup.jpg",
+    "https://www.inspiredtaste.net/wp-content/uploads/2016/08/Tomato-Soup-Recipe-1-1200.jpg",
     [
       "tomatoes",
       "onion",
@@ -154,7 +154,7 @@ export const recipes: Recept[] = [
   new Recept(
     "8",
     "Caesar Salad",
-    "https://example.com/images/caesar-salad.jpg",
+    "https://plus.unsplash.com/premium_photo-1664478283448-94d7b72a23ed?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2Flc2FyJTIwc2FsYWR8ZW58MHx8MHx8fDA%3D",
     [
       "romaine lettuce",
       "croutons",
@@ -176,7 +176,7 @@ export const recipes: Recept[] = [
   new Recept(
     "9",
     "Chocolate Chip Cookies",
-    "https://example.com/images/choc-chip-cookies.jpg",
+    "https://hips.hearstapps.com/hmg-prod/images/250512-pwm-cowgirl-4x3-68c04b8bd5bb7.jpg?crop=1xw:1xh;center,top&resize=1200:*",
     [
       "flour",
       "baking soda",
@@ -200,7 +200,7 @@ export const recipes: Recept[] = [
   new Recept(
     "10",
     "Omelette",
-    "https://example.com/images/omelette.jpg",
+    "https://www.demotivateur.fr/images-buzz/105978/omelette-parfaite-classique.jpg",
     [
       "eggs",
       "milk",
@@ -220,7 +220,7 @@ export const recipes: Recept[] = [
   new Recept(
     "11",
     "Chili con Carne",
-    "https://example.com/images/chili-con-carne.jpg",
+    "https://previews.123rf.com/images/margouillat/margouillat1801/margouillat180100869/94501281-chili-con-carne.jpg",
     [
       "ground beef",
       "onion",
@@ -243,7 +243,7 @@ export const recipes: Recept[] = [
   new Recept(
     "12",
     "Grilled Cheese Sandwich",
-    "https://example.com/images/grilled-cheese.jpg",
+    "https://www.recipetineats.com/tachyon/2023/07/Grilled-Cheese-sandwich-photo-main.jpg?resize=900%2C1125&zoom=1",
     ["bread", "butter", "cheese slices"],
     [
       "Butter one side of each bread slice.",
@@ -255,7 +255,7 @@ export const recipes: Recept[] = [
   new Recept(
     "13",
     "Shrimp Fried Rice",
-    "https://example.com/images/shrimp-fried-rice.jpg",
+    "https://www.dinneratthezoo.com/wp-content/uploads/2019/05/shrimp-fried-rice-5.jpg",
     [
       "rice (cooked, cold)",
       "shrimp",
@@ -278,7 +278,7 @@ export const recipes: Recept[] = [
   new Recept(
     "14",
     "Pancetta & Pea Risotto",
-    "https://example.com/images/pea-risotto.jpg",
+    "https://foodandjourneys.net/wp-content/uploads/2021/12/Pea-and-Pancetta-Risotto-PIC1.jpg",
     [
       "arborio rice",
       "pancetta (or bacon)",
@@ -304,7 +304,7 @@ export const recipes: Recept[] = [
   new Recept(
     "15",
     "Margherita Pizza",
-    "https://example.com/images/margherita-pizza.jpg",
+    "https://www.abeautifulplate.com/wp-content/uploads/2015/08/the-best-homemade-margherita-pizza-1-4.jpg",
     [
       "pizza dough",
       "tomato sauce",
@@ -324,7 +324,7 @@ export const recipes: Recept[] = [
   new Recept(
     "16",
     "Lentil Soup",
-    "https://example.com/images/lentil-soup.jpg",
+    "https://www.healthyseasonalrecipes.com/wp-content/uploads/2021/08/lentil-soup-029.jpg",
     [
       "lentils",
       "carrot",
@@ -347,7 +347,7 @@ export const recipes: Recept[] = [
   new Recept(
     "17",
     "Eggplant Parmesan",
-    "https://example.com/images/eggplant-parmesan.jpg",
+    "https://www.allrecipes.com/thmb/5uZ3e3ifoj-nzr6lQtSCvQkPUFs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/5068161-eef00c8c5553490d894800642e1dd9ec.jpg",
     [
       "eggplant",
       "flour",
@@ -371,7 +371,7 @@ export const recipes: Recept[] = [
   new Recept(
     "18",
     "Banana Bread",
-    "https://example.com/images/banana-bread.jpg",
+    "https://img.kidspot.com.au/q6HCTf9r/w643-h428-cfill-q90/kk/2016/05/easy-banana-bread-612173-1.jpg",
     [
       "ripe bananas",
       "flour",
@@ -394,7 +394,7 @@ export const recipes: Recept[] = [
   new Recept(
     "19",
     "Chicken Paprikash",
-    "https://example.com/images/chicken-paprikash.jpg",
+    "https://carolinagelen.com/wp-content/uploads/2023/01/9f5d5552-16bc-4672-ad77-7e3a0859f7ba_1370x1028.jpgg",
     [
       "chicken pieces",
       "onion",
@@ -419,7 +419,7 @@ export const recipes: Recept[] = [
   new Recept(
     "20",
     "Vegetarian Chili",
-    "https://example.com/images/veg-chili.jpg",
+    "https://cdn.apartmenttherapy.info/image/upload/f_auto,q_auto:eco,c_fill,g_auto,w_728,h_546/k%2Farchive%2F9fff417ed363c61374bb3a2523683b9949b51fb9",
     [
       "kidney beans",
       "black beans",
