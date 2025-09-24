@@ -4,11 +4,11 @@ export function Nav() {
     <View style={styles.navView}>
       <Image
         source={require("../assets/fork-and-knife.jpg")}
-        style={{ width: 100, height: 100, borderRadius: "50%" }}
+        style={{ width: 75, height: 75, borderRadius: "50%" }}
       />
       <Image
         source={require("../assets/images/logo-icon.jpg")}
-        style={{ width: 100, height: 100, borderRadius: "50%" }}
+        style={{ width: 75, height: 75, borderRadius: "50%" }}
       />
     </View>
   );

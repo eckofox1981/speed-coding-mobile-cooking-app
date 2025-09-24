@@ -1,5 +1,4 @@
 import { TodaysLunchSection } from "@/components/dagens";
-import { Nav } from "@/components/Nav";
 import React, { useState } from "react";
 import { ScrollView, StyleSheet, Text, TextInput } from "react-native";
 
@@ -8,7 +7,6 @@ export default function HomeScreen() {
 
   return (
     <>
-      <Nav />
       <ScrollView style={styles.content}>
         <Text style={styles.title}>Recipe App</Text>
         <TextInput
