@@ -31,7 +31,7 @@ const styles = StyleSheet.create({
   cardContainer: {
     borderColor: "black",
     borderWidth: 1,
-    borderRadius: 4,
+    //borderRadius: 4,
     padding: 10,
     elevation: 5,
     margin: 5,
